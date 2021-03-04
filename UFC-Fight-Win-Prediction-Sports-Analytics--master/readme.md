@@ -5,6 +5,7 @@ Mixed martial arts (MMA) is a full-contact combat sport that allows striking and
 **Major data Questions:**
 
 Our primary objective is to answer the following question through this project:
+
         ●	Predicting the outcome of a match given the details of the fighters.
         
         ●	What variables/factors have the most telling impact on the outcome of the match?
